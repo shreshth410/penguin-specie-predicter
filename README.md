@@ -1,4 +1,4 @@
-# 🐧 Data Analysis and Intelligence Assignment 4 (DAIA4)
+# 🐧 Demonstration of Exploratory Data Analysis on a Penguin Specie Dataset (DAIA4)
 
 ## 📘 Project Overview
 This project explores **data analysis and machine learning techniques** using the *Palmer Penguins dataset*. The objective is to perform **data preprocessing**, **classification**, and **clustering** to understand the relationships between various penguin species and their characteristics.
